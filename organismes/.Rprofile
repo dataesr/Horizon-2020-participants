@@ -1,0 +1,6 @@
+library(readr)
+library(readxl)
+library(dplyr)
+library(magrittr)
+library(tidyr)
+library(stringr)

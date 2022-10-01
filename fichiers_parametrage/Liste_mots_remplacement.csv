@@ -1,0 +1,102 @@
+pays;word;newword
+at;vienna                      ;wien                        
+at;universitat                 ;universitaet                
+at;university                  ;universitaet                
+at;technology                  ;technische                  
+at;forschungsgesellschaft      ;research                    
+at;medical                     ;medizinische                
+at;institut                    ;institute                   
+be;universiteit                ;universite                  
+be;university                  ;universite                  
+be;vrije                       ;libre
+be;european                    ;europe                      
+be;centrum                     ;centre                      
+be;brussel;bruxelles
+ch;technology                  ;technische                  
+ch;svizzera                    ;suisse                      
+ch;swiss;suisse                      
+ch;forschungsanstalt           ;research                    
+ch;recherche                   ;research                    
+ch;institut                    ;institute                   
+ch;universita                  ;hochschule                  
+ch;universitaet;hochschule                  
+ch;universitat;hochschule                  
+ch;universite;hochschule                  
+ch;university;hochschule                  
+ch;federal                     ;federale                    
+de;universitat                 ;universitaet                
+de;university                  ;universitaet                
+de;institute                   ;institut                    
+de;research                    ;forschung                   
+dk;university                  ;universitet                 
+dk;technology                  ;teknologisk                 
+dk;technical                   ;tekniske                    
+dk;southern                    ;syddansk                    
+dk;institut                    ;institute                   
+dk;denmark                     ;danmarks                    
+dk;københavns                  ;copenhagen                  
+es;universitat                 ;universidad                 
+es;university                  ;universidad                 
+es;research                    ;recerca                     
+es;investigacion               ;investigaciones             
+es;institut                    ;instituto                   
+es;centre                      ;centro                      
+fi;korkeakoulu                 ;yliopisto                   
+fi;university                  ;yliopisto                   
+fi;research                    ;tutkimuskeskus              
+fi;technology                  ;teknillinen                 
+fi;teknologian                 ;teknillinen                 
+fi;tampere                     ;tampereen                   
+fi;helsinki                    ;helsingin                   
+fr;university;universite
+fr;sup;superieure
+fr;scientific;scientifique
+fr;research;recherche
+fr;nat;nationale
+fr;inter;internationale
+fr;institute;institut
+fr;develop;developpement
+fr;coop;cooperation
+fr;agricultural;agronomique
+it;universitari                ;universita                  
+it;university                  ;universita                  
+it;technology                  ;tecnologie                  
+it;tecnologia                  ;tecnologie                  
+it;research                    ;ricerche                    
+it;ricerca                     ;ricerche                    
+it;centre                      ;centro                      
+nl;natuurwetenschappelijk      ;wetenschappelijk            
+nl;scientific                  ;wetenschappelijk            
+nl;universitair                ;universiteit                
+nl;university                  ;universiteit                
+nl;technology                  ;technische                  
+nl;research                    ;onderzoek                   
+nl;education                   ;onderwijs                   
+nl;nederlands                  ;nederlandse                 
+nl;netherlands                 ;nederland                   
+nl;medical                     ;medisch                     
+nl;christelijk                 ;katholieke                  
+nl;center                      ;centrum                     
+nl;centre                      ;centrum                     
+nl;academic                    ;academisch                  
+nl;akademie                    ;academisch                  
+nl;knaw                        ;academisch                  
+no;universitet                 ;universitetet               
+no;university                  ;universitetet               
+no;teknologisk                 ;technology                  
+no;institute                   ;institutt                   
+se;university                  ;universitet                 
+se;technology                  ;tekniska                    
+se;sweden                      ;sveriges                    
+se;forskningsinstitut          ;research
+se;institute                   ;institutet                  
+se;hoegskolan                  ;hoegskola                   
+se;hogskolan                   ;hoegskola                   
+fr;servic;service
+fr;joint unit research;umr
+fr;jru;umr
+fr;boulevartd ;boulevard
+fr;street;rue
+fr;joint unit recherche;umr
+fr;joint recherche unit;umr
+fr;univ;universite
